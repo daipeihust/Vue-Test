@@ -1,8 +1,8 @@
 # 教程
 
-[开始学习HTML](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
-[块级元素列表](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Block-level_elements)
-[行内元素列表](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Inline_elements)
+- [开始学习HTML](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+- [块级元素列表](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Block-level_elements)
+- [行内元素列表](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Inline_elements)
 
 # vue-project
 
